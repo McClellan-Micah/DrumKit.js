@@ -20,7 +20,7 @@ THEN I hear a corresponding musical sound
 ## Installation
 
 Simply click on the link and enjoy!
-[assets/JS-Drumkit.png] JS-Drumkit
+![JS-Drumkit] (/assets/JS-Drumkit.png )
 
 ## Usage
 
